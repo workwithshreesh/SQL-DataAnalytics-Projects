@@ -2,17 +2,8 @@
 
 ## Overview
 
-This project involves analyzing pizza sales data using SQL to answer key business questions. The analysis is divided into three sections: Basic, Intermediate, and Advanced, each with specific objectives to uncover insights related to total orders, revenue, popular pizza types, and order distribution.
+This project involves analyzing pizza sales data using SQL to answer key business questions. The analysis is divided into three sections: Basic, Intermediate, and Advanced, each with specific objectives to uncover insights related to total orders, revenue, popular pizza types, and order distribution, top 5 most ordered pizza.
 
-## Basic Analysis
-
-### Objectives
-
-1. **Retrieve the total number of orders placed.**
-2. **Calculate the total revenue generated from pizza sales.**
-3. **Identify the highest-priced pizza.**
-4. **Identify the most common pizza size ordered.**
-5. **List the top 5 most ordered pizza types along with their quantities.**
 
 ### SQL Queries
 
@@ -148,15 +139,4 @@ This project involves analyzing pizza sales data using SQL to answer key busines
 
 This project demonstrates the use of SQL for data analysis in a business context, providing insights into pizza sales performance and customer ordering patterns. The structured approach from basic to advanced analysis allows us to extract meaningful information that can drive business decisions and strategy.
 
-## Repository Structure
 
-- **/queries**: Contains all the SQL query files.
-- **/data**: Placeholder for raw data files.
-- **/results**: Contains results from SQL queries.
-- **README.md**: Project documentation.
-
----
-
-If you found this project helpful, please give it a star and follow the repository for more data analysis projects!
-
-Happy querying!
